@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Breno Gama 
+# 🧑🏽‍💻 Breno Gama 
 -📚Estudante de ciencia da computação TI
 
 -🎬desgn grafico
